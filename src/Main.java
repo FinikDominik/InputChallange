@@ -5,7 +5,7 @@ public class Main {
         inputThenPrintSumAndAverage(5);
     }
 
-    public static void inputThenPrintSumAndAverage(int number) {
+    public static void inputThenPrintSumAndAverage() {
         Scanner scanner = new Scanner(System.in);
 
         int sum = 0;
